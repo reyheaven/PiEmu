@@ -1,3 +1,6 @@
+# CMake sources
+build/
+
 # Object files
 *.o
 *.ko
