@@ -91,8 +91,7 @@ cpu_read_register(const cpu_t* cpu, armReg_t reg)
     }
   }
 
-  assert(0);
-  return 0;
+  __builtin_unreachable();
 }
 
 /**
@@ -150,6 +149,8 @@ cpu_write_register(cpu_t* cpu, armReg_t reg, uint32_t value)
       break;
     }
   }
+
+  __builtin_unreachable();
 }
 
 
@@ -169,6 +170,7 @@ read_spsr(cpu_t* cpu)
     case MODE_FIQ: return cpu->spsr.fiq;
     default: emulator_error(cpu->emu, "Invalid mode for reading SPSR");
   }
+
   return 0;
 }
 

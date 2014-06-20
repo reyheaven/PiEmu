@@ -1,0 +1,563 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sh",
+				"shentsize"
+			],
+			[
+				"elf_W",
+				"elf_writer_t"
+			],
+			[
+				"elf_hd",
+				"elf_shdr_t"
+			],
+			[
+				"str_tabl",
+				"str_table_len"
+			],
+			[
+				"stra",
+				"str_table_len"
+			],
+			[
+				"str",
+				"str_table_cap"
+			],
+			[
+				"str_",
+				"str_table_len"
+			],
+			[
+				"elf_write",
+				"elf_writer_t"
+			],
+			[
+				"elf",
+				"elf_header_t"
+			],
+			[
+				"lpool",
+				"lpool_names"
+			],
+			[
+				"replace",
+				"replace_macro_args"
+			],
+			[
+				"macro",
+				"macro_args_t"
+			],
+			[
+				"stree",
+				"stree_tag_t"
+			],
+			[
+				"lpool_",
+				"lpool_capacity"
+			],
+			[
+				"encode",
+				"encode_error"
+			],
+			[
+				"swit",
+				"switch_section"
+			],
+			[
+				"TK_NUM",
+				"TK_NUM_LABEL"
+			],
+			[
+				"extract_",
+				"extract_string"
+			],
+			[
+				"emulator",
+				"emulator_test"
+			],
+			[
+				"lpoo",
+				"lpool_size"
+			],
+			[
+				"lop",
+				"lpool_capacity"
+			],
+			[
+				"stre_",
+				"stree_arg_t"
+			],
+			[
+				"toke",
+				"tokenizer_t"
+			],
+			[
+				"parser",
+				"parser_error"
+			],
+			[
+				"dir",
+				"dir_names"
+			],
+			[
+				"uar",
+				"uart_baud_rate_counter"
+			],
+			[
+				"uart_B",
+				"uart_baud_rate"
+			],
+			[
+				"GPIO_UDL",
+				"GPIO_UDCLK0"
+			],
+			[
+				"emul",
+				"emulator_error"
+			],
+			[
+				"las",
+				"last_channel"
+			],
+			[
+				"memor",
+				"memory_read_dword_le"
+			],
+			[
+				"opt_",
+				"op_multiply_t"
+			],
+			[
+				"di",
+				"displayQuadrocopter"
+			],
+			[
+				"Quadr",
+				"Quadrocopter"
+			],
+			[
+				"Excep",
+				"ExceptedException"
+			],
+			[
+				"Destr",
+				"DestroyWindow"
+			],
+			[
+				"vkEn",
+				"vkEngineImpl"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 75.0,
+		"selected_items":
+		[
+			[
+				"ss rust",
+				"Set Syntax: Rust"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ss arm",
+				"Set Syntax: ARM Assembly"
+			],
+			[
+				"java",
+				"Set Syntax: Java"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/homes/nl1813/Projects/protogon/include/protogon.h",
+		"/homes/nl1813/Projects/protogon/src/vm.cc",
+		"/homes/nl1813/Projects/protogon/include/vm.h",
+		"/homes/nl1813/Projects/protogon/src/entity.cc",
+		"/homes/nl1813/Projects/protogon/include/entity.h",
+		"/homes/nl1813/Projects/protogon/test/test00.cc",
+		"/homes/nl1813/Projects/protogon/CMakeLists.txt",
+		"/homes/nl1813/Projects/protogon/test/files/monkey.pb",
+		"/homes/nl1813/Projects/protogon/test/files/object.pa",
+		"/homes/nl1813/Projects/protogon/test/files/object.ps",
+		"/homes/nl1813/Projects/protogon/test/files/object.pr",
+		"/homes/nl1813/Projects/protogon/test/files/object.pb",
+		"/homes/nl1813/Projects/protogon/src/protogon.cc",
+		"/homes/nl1813/Projects/protogon/src/main.cc",
+		"/homes/nl1813/Projects/protogon/test/test01.cc",
+		"/homes/nl1813/Projects/valkyrie/lib/valkyrie.h",
+		"/homes/nl1813/Projects/valkyrie/CMakeLists.txt",
+		"/homes/nl1813/Projects/valkyrie/script/script.h",
+		"/homes/nl1813/Projects/valkyrie/game/world.cc",
+		"/homes/nl1813/Projects/valkyrie/lib/archive.cc",
+		"/homes/nl1813/Projects/valkyrie/lib/archive.h",
+		"/homes/nl1813/Projects/valkyrie/lib/exception.cc",
+		"/homes/nl1813/Projects/valkyrie/lib/lexer.cc",
+		"/homes/nl1813/Projects/valkyrie/lib/math.cc",
+		"/homes/nl1813/Projects/valkyrie/lib/matrix.cc",
+		"/homes/nl1813/Projects/valkyrie/lib/memory.cc",
+		"/homes/nl1813/Projects/valkyrie/lib/quat.cc",
+		"/homes/nl1813/Projects/valkyrie/lib/skeleton.cc",
+		"/homes/nl1813/Projects/valkyrie/lib/valkyrie.cc",
+		"/homes/nl1813/Projects/valkyrie/lib/vector.cc",
+		"/homes/nl1813/Projects/valkyrie/renderer/program.cc",
+		"/homes/nl1813/Projects/valkyrie/renderer/renderer.cc",
+		"/homes/nl1813/Projects/valkyrie/renderer/vgl.cc",
+		"/homes/nl1813/Projects/valkyrie/sys/console.cc",
+		"/homes/nl1813/Projects/valkyrie/sys/cvar.cc",
+		"/homes/nl1813/Projects/valkyrie/sys/engine.cc",
+		"/homes/nl1813/Projects/valkyrie/sys/linux/linux_engine.cc",
+		"/homes/nl1813/Projects/valkyrie/sys/linux/linux_console.cc",
+		"/homes/nl1813/Projects/valkyrie/script/script.cc",
+		"/homes/nl1813/Projects/valkyrie/renderer/program.h",
+		"/homes/nl1813/Projects/valkyrie/sys/windows/windows_console.cc",
+		"/homes/nl1813/Projects/valkyrie/sys/windows/windows_engine.cc",
+		"/homes/nl1813/Projects/valkyrie/lib/math.h",
+		"/homes/nl1813/Projects/valkyrie/lib/vector.h",
+		"/homes/nl1813/Projects/valkyrie/assets/scripts/test.vk",
+		"/homes/nl1813/Projects/valkyrie/cmake/PrecompiledHeader.cmake",
+		"/homes/nl1813/Projects/valkyrie/tools/PrecompiledHeader.cmake",
+		"/homes/nl1813/Projects/protogon/src/x11.rs",
+		"/homes/nl1813/Projects/protogon/src/engine.rs",
+		"/homes/nl1813/Projects/protogon/src/main.rs",
+		"/homes/nl1813/Projects/protogon/protogon.cfg",
+		"/homes/nl1813/Projects/protogon/gfx/x11.rs",
+		"/homes/nl1813/Projects/protogon/core/engine.rs",
+		"/homes/nl1813/Projects/protogon/main.rs",
+		"/homes/nl1813/Projects/valkyrie/.gitignore",
+		"/homes/nl1813/Projects/arm11_28/testsuite/test_cases/macro1.s",
+		"/homes/nl1813/Projects/arm11_28/testsuite/test_cases/include.s",
+		"/homes/nl1813/Projects/arm11_28/tools/maketest.sh",
+		"/homes/nl1813/Projects/arm11_28/testsuite/test_cases/macro3.s",
+		"/homes/nl1813/Projects/arm11_28/testsuite/test_cases/macro4.s",
+		"/homes/nl1813/Projects/arm11_28/assembler/parser.c",
+		"/homes/nl1813/Projects/arm11_28/assembler/encode.c",
+		"/homes/nl1813/Projects/arm11_28/testsuite/test_cases/octal.s",
+		"/homes/nl1813/Projects/arm11_28/testsuite/test_cases/label.s",
+		"/homes/nl1813/Projects/arm11_28/testsuite/test_cases/symbol.s",
+		"/homes/nl1813/Projects/arm11_28/testsuite/test_cases/section.s",
+		"/homes/nl1813/Projects/arm11_28/emulator/framebuffer.c",
+		"/homes/nl1813/Projects/arm11_28/emulator/emulator.c",
+		"/homes/nl1813/Projects/arm11_28/game/input.s",
+		"/homes/nl1813/Projects/arm11_28/testsuite/test_cases/macro2.",
+		"/homes/nl1813/Projects/arm11_28/game/CMakeLists.txt",
+		"/homes/nl1813/Projects/arm11_28/game/ports.s",
+		"/homes/nl1813/Projects/arm11_28/game/kernel.ld",
+		"/homes/nl1813/Projects/arm11_28/assembler/parser.h",
+		"/homes/nl1813/Projects/arm11_28/assembler/common.h",
+		"/homes/nl1813/Projects/arm11_28/assembler/hash.c",
+		"/homes/nl1813/Projects/arm11_28/assembler/hash.h",
+		"/homes/nl1813/Projects/arm11_28/assembler/tokenizer.h",
+		"/homes/nl1813/Projects/arm11_28/assembler/tokenizer.c",
+		"/homes/nl1813/Projects/arm11_28/assembler/main.c",
+		"/homes/nl1813/Projects/arm11_28/assembler/encode.h",
+		"/homes/nl1813/Projects/arm11_28/testsuite/test_cases/blockdatatransfer02.out",
+		"/homes/nl1813/Projects/arm11_28/testsuite/test_cases/blockdatatransfer01.out",
+		"/homes/nl1813/Projects/arm11_28/assembler/elf.h",
+		"/homes/nl1813/Projects/arm11_28/assembler/elf.c",
+		"/homes/nl1813/Projects/arm11_28/assembler/asm.c",
+		"/homes/nl1813/Projects/arm11_28/assembler/CMakeLists.txt",
+		"/homes/nl1813/Projects/arm11_28/assembler/asm.h",
+		"/homes/nl1813/Projects/arm11_28/assembler/trie.c",
+		"/homes/nl1813/Projects/arm11_28/assembler/trie.h",
+		"/homes/nl1813/Projects/arm11_28/game/gfx.s",
+		"/homes/nl1813/Projects/arm11_28/game/bullets.s",
+		"/homes/nl1813/Projects/arm11_28/game/sound.s",
+		"/homes/nl1813/Projects/arm11_28/build/out.txt",
+		"/homes/nl1813/Projects/arm11_28/assembler/source.h",
+		"/homes/nl1813/Projects/arm11_28/assembler/source.c",
+		"/homes/nl1813/Projects/arm11_28/assembler/linker.c",
+		"/homes/nl1813/Projects/arm11_28/assembler/linker.h",
+		"/homes/nl1813/Projects/arm11_28/CMakeLists.txt",
+		"/homes/nl1813/Projects/arm11_28/game/kernel.s",
+		"/homes/nl1813/Projects/arm11_28/testsuite/test_cases/blockdatatransfer02.s",
+		"/homes/nl1813/Projects/arm11_28/testsuite/test_cases/blockdatatransfer01.s",
+		"/homes/nl1813/Projects/arm11_28/emulator/CMakeLists.txt",
+		"/homes/nl1813/Projects/arm11_28/emulator/emulator.h",
+		"/homes/nl1813/Projects/arm11_28/emulator/test.c",
+		"/homes/nl1813/Projects/arm11_28/assembler/test.c",
+		"/homes/nl1813/Projects/arm11_28/emulator/main.c",
+		"/homes/nl1813/Projects/arm11_28/CMake/CodeCoverage.cmake",
+		"/homes/nl1813/Projects/arm11_28/build/assembler/CMakeFiles/assemble.dir/trie.c.gcno",
+		"/homes/nl1813/Projects/arm11_28/emulator/common.h",
+		"/homes/nl1813/Projects/arm11_28/.git/hooks/prepare-commit-msg.sample",
+		"/homes/nl1813/Projects/arm11_28/.gitmodules",
+		"/homes/nl1813/Projects/arm11_28/emulator/coverage.c",
+		"/homes/nl1813/Projects/arm11_28/run-gcov.sh",
+		"/homes/nl1813/Projects/arm11_28/CMake",
+		"/homes/nl1813/Projects/arm11_28/game/game.s",
+		"/homes/nl1813/Projects/arm11_28/README.md",
+		"/homes/nl1813/Projects/arm11_28/emulator/cpu.h",
+		"/homes/nl1813/Projects/arm11_28/assembler/validate.c",
+		"/homes/nl1813/Projects/arm11_28/assembler/validate.h",
+		"/homes/nl1813/Projects/arm11_28/emulator/gpio.h",
+		"/homes/nl1813/Projects/arm11_28/emulator/gpio.c",
+		"/homes/nl1813/Projects/arm11_28/emulator/memory.c",
+		"/homes/nl1813/Projects/arm11_28/emulator/peripheral.h",
+		"/homes/nl1813/Projects/arm11_28/emulator/peripheral.c",
+		"/homes/nl1813/Projects/arm11_28/emulator/cpu.c",
+		"/homes/nl1813/Projects/arm11_28/build/asm.s",
+		"/homes/nl1813/Projects/arm11_28/build/test.out"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"test",
+			"#pragma hdrstop",
+			"pedantic",
+			"=c",
+			"c",
+			"std",
+			"Wall",
+			"-pedantic",
+			"Werror",
+			"std",
+			" \"-Wall -Werror\"",
+			" };",
+			"STA_IMM",
+			"include_file",
+			"compile",
+			"__PARSER_H__",
+			"symtab",
+			"info",
+			"idx",
+			"labels",
+			"void",
+			"hash_has",
+			"left",
+			"E l f 3 2 _ W o r d e",
+			"E l f 3 2 _ H a l f e _",
+			"E l f 3 2 _ H a l f e _ t",
+			"fout",
+			"ELF",
+			"Elf",
+			"elf",
+			"ELF",
+			"bin_out",
+			"128",
+			"encode_branch",
+			"\"b",
+			"fixup",
+			"equ_map",
+			"fprintf",
+			"encode_imm",
+			"encode_single_data_trans",
+			"fprintf",
+			"declare_global",
+			"Label",
+			" ",
+			"encode_branch",
+			"copy",
+			"\\n",
+			"\\n\"",
+			"\\n",
+			"arg",
+			"inc_address",
+			"tag",
+			"args_t",
+			"expand_m",
+			"node",
+			"encode_error",
+			"macro",
+			"app",
+			"section",
+			"TK_NUM",
+			"TK_IDENTI",
+			"num",
+			"'\\\\'",
+			",\n",
+			";\n",
+			"ch",
+			"30",
+			"Unexpect",
+			"fprintf",
+			"A\"",
+			"Unexpec",
+			"isalnum",
+			"Unexpected chara",
+			"free",
+			"encode_data",
+			"break",
+			"ll",
+			"assemble",
+			"ARGV3",
+			"SETUP_TARGET_FOR_COVERAGE",
+			"emulator",
+			"TK_EXPR_IMM",
+			"Too many operands",
+			"arg",
+			"op",
+			"expr_imm",
+			"op2",
+			"arg",
+			"asm_error",
+			"\n    break;",
+			"tk",
+			"Unexpected Characte",
+			"asm_error",
+			"shift",
+			"0",
+			"break",
+			"SH_COUN",
+			"SH",
+			"TK_OP2_SHIFT",
+			"list_label",
+			"extract_alnum",
+			"node",
+			"source",
+			"stree_free",
+			"0xFFFFFFFF",
+			"asm_error",
+			"uint32_t",
+			"s_bit",
+			"flags",
+			"s",
+			"args",
+			"node->args",
+			",",
+			"__EXPAND_H__",
+			"tk->val.str",
+			"reg",
+			"val_reg",
+			"val_instr",
+			"val_cond",
+			"val_dir",
+			"val_flags",
+			"val_str",
+			"val_int",
+			"val",
+			"printf",
+			"str_nocase_cmp",
+			"printf",
+			"tk->"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"EF",
+			"TK_SHIFT"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 118.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 118.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 178.0,
+	"status_bar_visible": true
+}

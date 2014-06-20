@@ -36,11 +36,11 @@ typedef struct _emulator_t emulator_t;
 #include "opcode.h"
 #include "vfp.h"
 #include "cpu.h"
-#include "gpio.h"
-#include "mbox.h"
-#include "framebuffer.h"
-#include "peripheral.h"
 #include "nes.h"
+#include "bcm2835/gpio.h"
+#include "bcm2835/mbox.h"
+#include "bcm2835/framebuffer.h"
+#include "bcm2835/peripheral.h"
 
 /* Emulator */
 #include "emulator.h"
