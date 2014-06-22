@@ -44,3 +44,24 @@ NES controller
 |Down  | S     |
 |Right | D     |
 
+
+Authors
+-------
+Nandor Licker
+- [Email](nandor.licker13@imperial.ac.uk)
+- Github [@nandor](https://github.com/nandor)
+
+Ilija Radosavovic
+- [Email](ilija.radosavovic13@imperial.ac.uk)
+- Github [@ir413](https://github.com/ir413)
+
+David Avedissian
+- [Email](david.avedissian13@imperial.ac.uk)
+- Github [@davedissian](https://github.com/davedissian)
+- Twitter [@davedissian](https://twitter.com/davedissian)
+
+Nic Prettejohn
+- [Email](nicolas.prettejohn13@imperial.ac.uk)
+- Github [@nkp](https://github.com/nkp)
+- Twitter [@thisisnkp](https://twitter.com/thisisnkp)
+
