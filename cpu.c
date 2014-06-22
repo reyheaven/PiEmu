@@ -149,8 +149,6 @@ cpu_write_register(cpu_t* cpu, armReg_t reg, uint32_t value)
       break;
     }
   }
-
-  __builtin_unreachable();
 }
 
 
@@ -1615,7 +1613,7 @@ cpu_tick(cpu_t* cpu)
   instr = memory_read_dword_le(cpu->memory, pc);
   cpu->r_usr.reg.pc = pc + 4;
 
-  //printf("PC: 0x%08x - Instr: 0x%08x\n", pc, instr);
+  fprintf(stderr, "PC: 0x%08x - Instr: 0x%08x\n", pc, instr);
 
   /* Terminate on NOP */
   if (instr == 0x0)
