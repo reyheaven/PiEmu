@@ -1,6 +1,9 @@
 # CMake sources
 build/
 
+# Sublime Project
+*.sublime*
+
 # Object files
 *.o
 *.ko
